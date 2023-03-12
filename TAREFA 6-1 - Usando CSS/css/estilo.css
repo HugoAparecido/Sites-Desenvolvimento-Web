@@ -1,0 +1,43 @@
+#topo h1 {
+    text-align: center;
+    color: red;
+}
+
+#topo {
+    text-align: center;
+}
+
+.destaques h2 {
+    color: blue;
+}
+
+.sobre h3 {
+    color: red;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#topo {
+    background-color: aqua;
+}
+
+#menu a,
+#rodape a {
+    color: brown;
+}
+
+#menu,
+#rodape {
+    background-color: bisque;
+}
+
+.destaques {
+    text-align: center;
+    font-size: 25px;
+}
+
+.sobre {
+    font-size: 20px;
+}

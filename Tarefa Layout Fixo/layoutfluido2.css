@@ -1,0 +1,53 @@
+#tudo {
+    width: 100%;
+    margin: auto;
+}
+
+header {
+    width: 50%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+nav {
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    float: right;
+}
+
+main {
+    width: 95%;
+    height: 500px;
+    background-color: green;
+    margin: auto;
+    clear: both;
+}
+
+section {
+    width: 29%;
+    height: 500px;
+    float: right;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#a {
+    background-color: aqua;
+}
+
+#b {
+    background-color: aquamarine;
+}
+
+#c {
+    background-color: blueviolet;
+}
+
+footer {
+    width: 90%;
+    height: 200px;
+    background-color: yellow;
+    margin: auto;
+}

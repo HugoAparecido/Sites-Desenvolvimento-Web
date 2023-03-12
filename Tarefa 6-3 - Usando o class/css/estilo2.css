@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+table {
+    font-size: 30px;
+}
+
+thead {
+    background-color: darksalmon;
+}
+
+tbody {
+    background-color: honeydew;
+}
+
+tfoot {
+    background-color: navajowhite;
+}

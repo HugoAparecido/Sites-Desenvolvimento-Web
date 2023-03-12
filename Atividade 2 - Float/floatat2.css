@@ -1,0 +1,29 @@
+#box1{
+    width: 200px;
+    height: 710px;
+    background-color: green;
+    float: right;
+}
+#box2{
+    width: 800px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin-bottom: 10px;
+}
+#box3{
+    width: 395px;
+    height: 500px;
+    background-color: red;
+    float: left;
+}
+#box4{
+    width: 395px;
+    height: 500px;
+    margin-left: 10px;
+    background-color: yellow;
+    float: left;
+}
+body{
+    width: 1010px;
+}
